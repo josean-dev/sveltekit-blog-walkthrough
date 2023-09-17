@@ -1,10 +1,12 @@
 # My Dev Blog
 
+📹 Youtube Video Pt 1: [Building A Dev Blog With Neovim, SvelteKit, TS & Tailwindcss](https://youtu.be/cxNDZHwln1w)
+
 This repo is very similar to my live production blog found here: [My Blog](https://josean.com)
 
 ## Running this locally
 
-Clone the repo first and navigate to the dev-blog directory.
+Clone the repo first and navigate to the `sveltekit-blog-walkthrough` directory.
 
 Make sure you nave node (tested with v18.17.1) and npm (tested with 10.0.0) installed.
 
