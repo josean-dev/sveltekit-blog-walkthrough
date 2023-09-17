@@ -1,5 +1,5 @@
 <script lang="ts">
-  import type { MarkdownPost } from "$custom-types";
+  import type { MarkdownPost } from "../../types";
   import { formatPublishedAt } from "$lib/utils/dates";
 
   export let metadata: MarkdownPost["metadata"];

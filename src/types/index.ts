@@ -10,3 +10,8 @@ export type MarkdownPost = {
   };
   default: ComponentType;
 };
+
+export type MarkdownPostMetadataAndSlug = {
+  slug: string;
+  metadata: MarkdownPost["metadata"];
+};
