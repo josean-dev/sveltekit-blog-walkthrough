@@ -2,7 +2,7 @@
 
 📹 Youtube Video Pt 1: [Building A Dev Blog With Neovim, SvelteKit, TS & Tailwindcss](https://youtu.be/cxNDZHwln1w)
 
-This repo is very similar to my live production blog found here: [My Blog](https://josean.com)
+This repo is very similar to my live production blog found here: [josean.com](https://josean.com)
 
 ## Running this locally
 
